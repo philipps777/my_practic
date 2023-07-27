@@ -12,9 +12,13 @@
   display: flex;
   border: 1px solid black;
   width: 153px;
+  margin: 20px 0px 20px 30px;
 }
 h1 {
   color: rgb(200, 255, 0);
   font-size: 24px;
   /* Другие свойства стиля */
+}
+button {
+  margin: 20px 0px 20px 30px;
 }
